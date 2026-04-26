@@ -1,0 +1,25 @@
+airport,iata,country,lat,lon,runway,runway_length_m,elevation_m
+Perth Airport,PER,Australia,-31.9403,115.9669,03/21,3444,63
+Singapore Changi,SIN,Singapore,1.3644,103.9915,02L/20R,4000,22
+Sydney Kingsford Smith,SYD,Australia,-33.9399,151.1753,16R/34L,3962,21
+Melbourne Tullamarine,MEL,Australia,-37.669,144.841,16/34,3657,132
+Dubai International,DXB,UAE,25.2532,55.3657,12L/30R,4000,19
+London Heathrow,LHR,United Kingdom,51.47,-0.4543,09L/27R,3902,25
+Los Angeles International,LAX,USA,33.9416,-118.4085,06L/24R,3685,38
+New York JFK,JFK,USA,40.6413,-73.7781,13R/31L,4423,4
+Tokyo Haneda,HND,Japan,35.5494,139.7798,16L/34R,3360,6
+Delhi IGI,DEL,India,28.5562,77.1,11/29,4430,237
+Mumbai CSMIA,BOM,India,19.0896,72.8656,09/27,3448,11
+Paris CDG,CDG,France,49.0097,2.5479,08L/26R,4215,119
+Frankfurt Airport,FRA,Germany,50.0379,8.5622,07C/25C,4000,111
+Doha Hamad,DOH,Qatar,25.2731,51.6081,16R/34L,4850,13
+Hong Kong International,HKG,Hong Kong,22.308,113.9185,07L/25R,3800,9
+Cape Town International,CPT,South Africa,-33.9715,18.6021,01/19,3201,46
+Auckland Airport,AKL,New Zealand,-37.0082,174.785,05R/23L,3635,7
+Vancouver International,YVR,Canada,49.1967,-123.1815,08L/26R,3029,4
+São Paulo Guarulhos,GRU,Brazil,-23.4356,-46.4731,09R/27L,3700,245
+Johannesburg OR Tambo,JNB,South Africa,-26.1337,28.242,03L/21R,4421,1694
+Amsterdam Schiphol,AMS,Netherlands,52.3105,4.7683,18R/36L,3800,-11
+Istanbul Airport,IST,Türkiye,41.2753,28.7519,18/36,4100,99
+Incheon Airport,ICN,South Korea,37.4602,126.4407,15R/33L,3750,7
+Bangkok Suvarnabhumi,BKK,Thailand,13.69,100.7501,01R/19L,4000,2
