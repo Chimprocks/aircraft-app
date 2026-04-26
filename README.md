@@ -1,6 +1,6 @@
 # Aircraft World Dispatch Simulator V3
 
-Replace/upload these files in GitHub:
+Replaced/uploaded these files in GitHub:
 
 - app.py
 - aircraft_data.csv
