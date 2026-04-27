@@ -1,0 +1,13 @@
+airport,iata,country,lat,lon,runway,runway_length_m,elevation_m
+Perth Airport,PER,Australia,-31.9403,115.9669,03/21,3444,63
+Singapore Changi,SIN,Singapore,1.3644,103.9915,02L/20R,4000,22
+Dubai International,DXB,UAE,25.2532,55.3657,12L/30R,4000,19
+London Heathrow,LHR,United Kingdom,51.47,-0.4543,09L/27R,3902,25
+Los Angeles International,LAX,USA,33.9416,-118.4085,06L/24R,3685,38
+New York JFK,JFK,USA,40.6413,-73.7781,13R/31L,4423,4
+Tokyo Haneda,HND,Japan,35.5494,139.7798,16L/34R,3360,6
+Delhi IGI,DEL,India,28.5562,77.1,11/29,4430,237
+Mumbai CSMIA,BOM,India,19.0896,72.8656,09/27,3448,11
+Paris CDG,CDG,France,49.0097,2.5479,08L/26R,4215,119
+Doha Hamad,DOH,Qatar,25.2731,51.6081,16R/34L,4850,13
+Hong Kong International,HKG,Hong Kong,22.308,113.9185,07L/25R,3800,9
