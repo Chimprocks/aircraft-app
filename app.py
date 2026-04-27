@@ -40,7 +40,35 @@ def load_runways():
 aircraft = load_aircraft()
 runways = load_runways()
 
-st.markdown('<div class="logo">✈️ AIRCRAFT APP PRO <span class="badge">Animated Simulator UI</span> <span class="badge">Accurate Seat Space</span> <span class="badge">Airline Game</span></div>', unsafe_allow_html=True)
+import time
+
+st.subheader("🌍 Live Flight Map")
+
+# Coordinates (PER → SIN)
+start = (-31.9403, 115.9669)  # Perth
+end = (1.3644, 103.9915)      # Singapore
+
+steps = 50
+
+latitudes = []
+longitudes = []
+
+for i in range(steps):
+    lat = start[0] + (end[0] - start[0]) * i / steps
+    lon = start[1] + (end[1] - start[1]) * i / steps
+    latitudes.append(lat)
+    longitudes.append(lon)
+
+map_placeholder = st.empty()
+
+for i in range(steps):
+    df = pd.DataFrame({
+        "lat": [latitudes[i]],
+        "lon": [longitudes[i]]
+    })
+
+    map_placeholder.map(df)
+    time.sleep(0.05)
 
 with st.sidebar:
     st.header("🎛️ Control Panel")
